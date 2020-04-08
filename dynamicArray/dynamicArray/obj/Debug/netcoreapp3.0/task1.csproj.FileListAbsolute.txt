@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\dynamicArray\dynamicArray\bin\Debug\netcoreapp3.0\task1.exe
+C:\Users\User\source\repos\dynamicArray\dynamicArray\bin\Debug\netcoreapp3.0\task1.deps.json
+C:\Users\User\source\repos\dynamicArray\dynamicArray\bin\Debug\netcoreapp3.0\task1.runtimeconfig.json
+C:\Users\User\source\repos\dynamicArray\dynamicArray\bin\Debug\netcoreapp3.0\task1.runtimeconfig.dev.json
+C:\Users\User\source\repos\dynamicArray\dynamicArray\bin\Debug\netcoreapp3.0\task1.dll
+C:\Users\User\source\repos\dynamicArray\dynamicArray\bin\Debug\netcoreapp3.0\task1.pdb
+C:\Users\User\source\repos\dynamicArray\dynamicArray\obj\Debug\netcoreapp3.0\task1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\dynamicArray\dynamicArray\obj\Debug\netcoreapp3.0\task1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\dynamicArray\dynamicArray\obj\Debug\netcoreapp3.0\task1.AssemblyInfo.cs
+C:\Users\User\source\repos\dynamicArray\dynamicArray\obj\Debug\netcoreapp3.0\task1.dll
+C:\Users\User\source\repos\dynamicArray\dynamicArray\obj\Debug\netcoreapp3.0\task1.pdb
